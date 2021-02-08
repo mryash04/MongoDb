@@ -131,5 +131,3 @@ console.log(MongoData);
 // }
 
 // getDeleteResult();
-
-
